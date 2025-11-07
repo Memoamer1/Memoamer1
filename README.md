@@ -1,8 +1,8 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Memoamer1">Amer</a></h2>
-<p>I'm a <strong>Computer Science student</strong> passionate about software development and backend technologies.  
-Currently, I'm focusing on improving my skills in <strong>Java, C++, SQL, and Object-Oriented Programming (OOP)</strong>, while also exploring <strong>Networking</strong> and building small projects to strengthen my experience.</p>
+<p>I'm a <strong>Computer Science student</strong> passionate about backend development, software engineering, and modern programming technologies.  
+I’m currently improving my skills in <strong>Java, C++, SQL, and OOP</strong>, while also learning more about <strong>Networking</strong> and building real-world projects.</p>
 
-<p>Besides coding, I'm also interested in <strong>e-commerce and dropshipping</strong>, especially in the field of <strong>phone accessories and electronics</strong>.</p>
+<p>Beyond coding, I’m also exploring <strong>e-commerce and dropshipping</strong> in the field of <strong>phone accessories and electronics</strong>.</p>
 
 <p>
 <a href="https://github.com/Memoamer1">
@@ -19,28 +19,41 @@ Currently, I'm focusing on improving my skills in <strong>Java, C++, SQL, and Ob
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-  <li>🎓 I'm currently studying <strong>Computer Science</strong>.</li>
-  <li>💻 I’m learning and building projects using <strong>Java</strong>, <strong>C++</strong>, <strong>SQL</strong>, and <strong>OOP</strong>.</li>
-  <li>🌐 Exploring <strong>Networking</strong> and system fundamentals.</li>
-  <li>🛍️ Working on my <strong>Dropshipping</strong> business focused on tech accessories.</li>
-  <li>👨‍💻 Most of my code and projects are available on my <a href="https://github.com/Memoamer1">GitHub</a>.</li>
+  <li>🎓 Studying <strong>Computer Science</strong>.</li>
+  <li>💻 Experienced with <strong>Java</strong>, <strong>C++</strong>, <strong>SQL</strong>, and <strong>OOP principles</strong>.</li>
+  <li>🌐 Learning about <strong>Networking</strong> and backend development.</li>
+  <li>🛍️ Building a <strong>Dropshipping</strong> business focused on tech accessories.</li>
+  <li>👨‍💻 My projects are available here on <a href="https://github.com/Memoamer1">GitHub</a>.</li>
 </ul>
 
 ---
 
 <h2>📂 Featured Projects</h2>
+
 <ul>
   <li>
-    <strong><a href="https://github.com/Memoamer1/Java-OOP-Project">Java OOP Project</a></strong>  
-    A console-based project demonstrating object-oriented design, inheritance, and encapsulation in Java.
+    <strong><a href="https://github.com/Memoamer1/code-memo">Code Memo</a></strong>  
+    A collection of small coding exercises and logic problems written in Java and C++ for practice and experimentation.
   </li>
   <li>
-    <strong><a href="https://github.com/Memoamer1/Flight-Price-Prediction">Flight Price Prediction</a></strong>  
-    A data analysis and machine learning project using Python to predict flight prices in Bangladesh.
+    <strong><a href="https://github.com/Memoamer1/restaurant">Restaurant Management System</a></strong>  
+    A Java-based console application simulating restaurant operations like menu handling, orders, and billing.
   </li>
   <li>
-    <strong><a href="https://github.com/Memoamer1/Network-Labs">Networking Labs</a></strong>  
-    A collection of network configuration labs (DHCP, routing, switching) built with Cisco Packet Tracer.
+    <strong><a href="https://github.com/Memoamer1/ATM-system">ATM System</a></strong>  
+    A mini project demonstrating OOP principles in Java — simulating ATM functionalities such as balance inquiry, deposits, and withdrawals.
+  </li>
+  <li>
+    <strong><a href="https://github.com/Memoamer1/system-car">Car Management System</a></strong>  
+    Java-based application managing car details, models, and validation using object-oriented programming.
+  </li>
+  <li>
+    <strong><a href="https://github.com/Memoamer1/calc">Simple Calculator</a></strong>  
+    A basic arithmetic calculator built in Java — demonstrating GUI and input handling fundamentals.
+  </li>
+  <li>
+    <strong><a href="https://github.com/Memoamer1/pepse">Pepsi-Themed App</a></strong>  
+    A creative practice project experimenting with layout design, UI structure, and branding in Java.
   </li>
 </ul>
 
@@ -68,10 +81,10 @@ Currently, I'm focusing on improving my skills in <strong>Java, C++, SQL, and Ob
 
 <h2>🌱 Current Goals</h2>
 <ul>
-  <li>Improve backend skills using Java and SQL.</li>
+  <li>Advance in backend development with Java and SQL.</li>
   <li>Learn Spring Framework and database optimization.</li>
-  <li>Work on open-source projects and collaborate with other developers.</li>
-  <li>Continue learning about networking and cloud fundamentals.</li>
+  <li>Collaborate on open-source projects to gain real experience.</li>
+  <li>Keep improving my understanding of networking and cloud computing.</li>
 </ul>
 
 ---
@@ -85,4 +98,3 @@ Currently, I'm focusing on improving my skills in <strong>Java, C++, SQL, and Ob
 ---
 
 <p align="center">✨ “Code, Learn, Build, Repeat.” ✨</p>
-
