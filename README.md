@@ -1,4 +1,4 @@
-<h2>Hey 👋, I'm <a href="https://github.com/Memoamer1">Memo Amer</a></h2>
+<h2>Hey 👋, I'm <a href="https://github.com/Memoamer1">Amer</a></h2>
 <p>I'm a <strong>Computer Science student</strong> passionate about software development and backend technologies.  
 Currently, I'm focusing on improving my skills in <strong>Java, C++, SQL, and Object-Oriented Programming (OOP)</strong>, while also exploring <strong>Networking</strong> and building small projects to strengthen my experience.</p>
 
